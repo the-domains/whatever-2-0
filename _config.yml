@@ -1,0 +1,14 @@
+layout_spectrum: 0.5179211
+typography_spectrum: 0.7293907
+color:
+  saturation: 0.3596627
+  lightness: 0.7981229
+  brandStrength: 0.8082438
+  brandColors:
+    - '#4E555B'
+    - '#DDEAFA'
+    - '#9197A3'
+    - '#A8B0BD'
+    - '#2B3029'
+  rhythmicContrast: 0.9044484
+name: Whatever 2.0
